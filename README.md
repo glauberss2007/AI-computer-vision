@@ -28,11 +28,8 @@ Some basics command are in basic folder.
 2. Detect hands and draw a polygon around it using convex hull.
 3. Calculate the center of the hand to infer finger count.
 
-
-
-
 ## References
-
+- https://docs.opencv.org/4.x/d7/d1d/tutorial_hull.html
 
 
 
