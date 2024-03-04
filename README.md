@@ -13,5 +13,26 @@ Combining RGB information allow multiple color generation.
 
 When reading an image we got the height, width and color channels (RGB). RGB stands for Red, Green, and Blue, which are the primary additive colors used in digital imaging. The RGB color model is based on the principle of additive color mixing, where different intensities of red, green, and blue light are combined to create a broad spectrum of colors. In this model, colors are represented by specifying the intensity of each of the three primary colors. RGB is the most common color model used in electronic displays, digital cameras, and various imaging devices. It is widely used in computer graphics, web design, and other digital media applications. Many image file formats, such as JPEG and PNG, store color information using the RGB model.
 
-## Images with numpy
+## Images with numpy and OpenCV
+
+This project required the Image lib from PIL installation:
+```
+pip install Image imshow opencv-python scikit-learn pairwise
+```
+
+Some basics command are in basic folder.
+
+## CapStone Project
+
+1. Set an ROI and calculate the AVG.
+2. Detect hands and draw a polygon around it using convex hull.
+3. Calculate the center of the hand to infer finger count.
+
+
+
+
+## References
+
+
+
 
